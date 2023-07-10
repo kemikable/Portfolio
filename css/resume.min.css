@@ -24,6 +24,10 @@ body {
     font-size: larger;
 }
 
+.margin-top {
+    margin-top: 3%;
+}
+
 @media (min-width:992px) {
     body {
         padding-top: 0;
