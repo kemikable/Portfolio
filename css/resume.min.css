@@ -4,6 +4,13 @@
     color: #868e96
 }
 
+body {
+    background-image: url('/img/texture-2068283_1280.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 .big-h1 {
     font-size: 1.5em;
     /* font-weight: bold; */
@@ -33,7 +40,7 @@ h6 {
     font-family: 'Saira Extra Condensed', serif;
     font-weight: 700;
     text-transform: uppercase;
-    color: #343a40
+    color: #343a40;
 }
 
 h1 {
@@ -172,7 +179,9 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-    color: #580ae8
+    color: #580ae8;
+    /* font-size: large; */
+    font-weight: 900;
 }
 
 a {
